@@ -4,6 +4,7 @@ public class New {
 	
 	public void tese() {
 		System.out.println("right.....");
+		System.out.println("left.....");
 	}
 
 }
